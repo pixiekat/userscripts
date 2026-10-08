@@ -3,9 +3,9 @@
 // @namespace   https://codeberg.org/pixiekat/userscripts
 // @match       https://bsky.app/*
 // @match       https://mu.social/*
-// @match       https://northsky.social/*
+// @match       https://northsky.app/*
 // @grant       none
-// @version     1.2
+// @version     1.3
 // @author      pixiekat <pixiekat@noreply.codeberg.org>
 // @description Autoclicks the "Show More Replies" button in Bluesky threads because the Bluesky devs are morons.
 // @run-at      document-idle
